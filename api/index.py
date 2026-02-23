@@ -22,7 +22,6 @@ WORKFLOWS = [
     {"repo": "piso_outbound_sp5", "workflow": "piso10.yml"},
     {"repo": "base_packed_go1", "workflow": "main_base_to_packed.yaml"},
     {"repo": "piso_outbound_go2", "workflow": "piso10.yml"},
-    {"repo": "reporte_seatalk_go2", "workflow": "piso_go1.yaml"},
 ]
 
 # Rota principal para verificar se o app está no ar
