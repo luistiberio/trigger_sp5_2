@@ -14,7 +14,7 @@ HEADERS = {
 # Lista de workflows a serem acionados
 WORKFLOWS = [
     {"repo": "reporte_hxh_sp5", "workflow": "reporte.yml"},
-    {"repo": "backlog", "workflow": "backlog.yml"},
+    {"repo": "backlog_sp5", "workflow": "backlog.yml"},
     {"repo": "reportes_sp5", "workflow": "main_script.yml"}, # alterado dados.yml para main_script.yml
     {"repo": "packed_sp5", "workflow": "main_base_to_packed.yaml"},
     {"repo": "queue_list", "workflow": "att10.yml"},
