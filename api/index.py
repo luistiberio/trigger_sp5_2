@@ -17,8 +17,8 @@ WORKFLOWS = [
     {"repo": "backlog_sp5", "workflow": "backlog.yml"},
     {"repo": "reportes_sp5", "workflow": "main_script.yml"}, # alterado dados.yml para main_script.yml
     {"repo": "packed_sp5", "workflow": "main_base_to_packed.yaml"},
-    {"repo": "queue_list", "workflow": "att10.yml"},
-    {"repo": "queue_list", "workflow": "queue_list_sp5.yml"},
+    {"repo": "queue_list_sp5", "workflow": "att10.yml"},
+    {"repo": "queue_list_sp5", "workflow": "queue_list_sp5.yml"},
     {"repo": "piso_outbound_sp5", "workflow": "piso10.yml"},
     {"repo": "base_packed_go1", "workflow": "main_base_to_packed.yaml"},
     {"repo": "piso_outbound_go2", "workflow": "piso10.yml"},
