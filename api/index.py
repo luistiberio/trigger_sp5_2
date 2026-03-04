@@ -24,6 +24,8 @@ WORKFLOWS = [
     {"repo": "piso_outbound_go2", "workflow": "piso10.yml"},
     {"repo": "Base_ended", "workflow": "main_ended.yaml"},
     {"repo": "Base_inbound", "workflow": "main_inbound.yaml"},
+    {"repo": "db_packed_sp5", "workflow": "main_base_to_packed.yaml"},
+    {"repo": "packing_sp5", "workflow": "to_packing.yaml"},
 ]
 
 # Rota principal para verificar se o app está no ar
